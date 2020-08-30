@@ -3,7 +3,7 @@ public class Greeter {
         if (args.length > 0) {
             System.out.printf("Greetings, %s\n!",args[0]);
         } else {
-            System.out.println("Greetings, earthling!");
+            System.out.println("Greetings, planetary inhabitant!");
         }
     }
 }
